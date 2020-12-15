@@ -13,13 +13,13 @@ Some examples of the linear aneural work systems of intuitive networks that stor
 
 ![Basic Aneural System](bulb.jpg)
 
-![Plant Aneural System](https://github.com/Autognorics/autognorics.github.io/blob/main/pix/plant.jpg)
+![Plant Aneural System](plant.jpg)
 
-![Computer Aneural System](https://github.com/Autognorics/autognorics.github.io/blob/main/pix/cpu.jpg)
+![Computer Aneural System](cpu.jpg)
 
-![Cobweb Aneural System](https://github.com/Autognorics/autognorics.github.io/blob/main/pix/web.jpg)
+![Cobweb Aneural System](web.jpg)
 
-![Brain Neural System](https://github.com/Autognorics/autognorics.github.io/blob/main/pix/cells.jpg)
+![Brain Neural System](cells.jpg)
 
 
 "Just because you have a brain doesn't mean you are conscious;
