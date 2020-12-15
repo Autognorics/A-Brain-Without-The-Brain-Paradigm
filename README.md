@@ -11,7 +11,7 @@ For example, in the Basic Aneural System drawing below, the switch serves as the
 
 Some examples of the linear aneural work systems of intuitive networks that stores and processes information in a queue without a brain and its six major elements are illustrated below:
 
-![Basic Aneural System](https://github.com/Autognorics/autognorics.github.io/blob/main/pix/bulb.jpg)
+![Basic Aneural System](bulb.jpg)
 
 ![Plant Aneural System](https://github.com/Autognorics/autognorics.github.io/blob/main/pix/plant.jpg)
 
