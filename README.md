@@ -25,6 +25,6 @@ Some examples of the linear aneural work systems of intuitive networks that stor
 ![Brain Neural System](cells.jpg)
 
 
-"Just because you have a brain doesn't mean you are conscious;
-just because you are alive doesn't mean you have a brain."
-~ Joey Lawsin
+> "Just because you have a brain doesn't mean you are conscious;
+> just because you are alive doesn't mean you have a brain."
+> ~ Joey Lawsin
