@@ -1,4 +1,4 @@
-![Autognorics](aneural.jpg)
+![Autognorics](gnorics.jpg)
 # A Brain Without The Brain Paradigm
 [HOME](https://autognorics.github.io/) 
 
