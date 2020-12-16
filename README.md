@@ -1,5 +1,5 @@
 ![Autognorics](gnorics.jpg)
-# A Brain Without The Brain Paradigm
+# Paradigm: A Brain Without The Brain
 [HOME](https://autognorics.github.io/) 
 
 In his book, Biotronics: The Silver Species, Joey Lawsin disclosed his theory on Aneural Consciousness that claims Consciousness does not need to emerge from the Brain. He called this idea as A Brain without the Brain Paradigm. Short excerpts from his book that reveal some of his findings of this paradigm are discussed in the preceding lines.
