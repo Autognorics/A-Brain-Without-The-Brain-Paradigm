@@ -2,7 +2,7 @@
 # Paradigm: A Brain Without The Brain
 [HOME](https://autognorics.github.io/) 
 
-In his book, Biotronics: The Silver Species, Joey Lawsin disclosed his theory on Aneural Consciousness that claims Consciousness does not need to emerge from the Brain. He called this idea as A Brain without the Brain Paradigm. Short excerpts from his book that reveal some of his findings on this paradigm are discussed in the preceding lines.
+In his book, Biotronics: The Silver Species, Joey Lawsin disclosed his theory on Aneural Consciousness, a rationale that claims Consciousness does not need to emerge from the Brain. He called this idea as A Brain without the Brain Paradigm or the Theory of M.I.N.D. (Materialization of Information & Inscritption by Design). Short excerpts from his book below reveal some of his findings Aneural System.
 
 Perhaps, sometime during your childhood days, you playfully send messages through a friend using a string telephone, a toy which is made up of two tin cans that are connected by a long string.  When information is sent through the first can, the information travels to the string and receives by the second can. The simple telephone setup depicts a model of what a system is and what it is made up of.
 
