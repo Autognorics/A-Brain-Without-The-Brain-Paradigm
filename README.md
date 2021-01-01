@@ -1,4 +1,4 @@
-![Autognorics](gnorics.jpg)
+![Autognorics](IMS.jpg)
 # Paradigm: A Brain Without The Brain
 [HOME](https://autognorics.github.io/) 
 
